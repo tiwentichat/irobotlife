@@ -1,0 +1,71 @@
+site_name: 智·人·新生活
+theme:
+  name: material
+
+  icon:
+    logo: material/all-inclusive
+    repo: fontawesome/brands/github
+
+
+  default_language: zh
+  site_description: 智·人·新生活/New Life with AI
+  site_url: 'https://i-robot.life/'
+  site_author: I-Robot.Life Team
+  repo_url: 'https://github.com/tiwentichat/irobotlife'
+  edit_uri: edit/main/docs/
+  copyright: |
+    Copyright &copy; 采用 GFDL 协议
+
+
+plugins:
+  - search
+  - macros
+  - awesome-pages
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/@widgetbot/crate@3/dist/crate.esm.js
+
+    
+
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - pymdownx.superfences
+  - meta
+  - pymdownx.tabbed:
+      alternate_style: true
+
+
+extra:
+  social:
+    - icon: material/all-inclusive
+      link: 'https://t.me/s/StableDiffusion_CN_WIKI'
+    #- icom: fontawesome/brands/discord
+    #  link: 'https://discord.gg/vhsArSSA6K'
+  generator: true
+
+
+
+
+
+nav:
+  - 首页: 
+      - 聊天工具：chat/chat.md
+      - 首页: index.md
+#      - 新闻: GettingStarted/news.md
+#      - 术语: GettingStarted/term.md
+#      - 声明: GettingStarted/state.md
+#      - 贡献指南: GettingStarted/contributing.md
+#  - 开始之前:
+#      - prepare/index.md
+#  导航栏设置，学习自aidraw
+
+
+
+
