@@ -17,15 +17,7 @@ theme:
     Copyright &copy; 采用 GFDL 协议
 
 
-plugins:
-  - search
-  - macros
-  - awesome-pages
 
-extra_javascript:
-  - https://cdn.jsdelivr.net/npm/@widgetbot/crate@3/dist/crate.esm.js
-
-    
 
 
 markdown_extensions:
