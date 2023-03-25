@@ -7,6 +7,14 @@ Alpha Go, MidJourney，ChatGPT
 新的时代，AI融入人类生活的新时代，真的到来了。
 
 
+<iframe
+	src="https://dao3-chuanhuchatgpt.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+>
+</iframe>
+
 
 [![GitHub forks](https://img.shields.io/github/forks/hua1995116/awesome-ai-painting.svg?style=social&label=Forks)](https://github.com/hua1995116/awesome-ai-painting/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/hua1995116/awesome-ai-painting.svg?style=social&label=Stars)](https://github.com/hua1995116/awesome-ai-painting/stargazers)
