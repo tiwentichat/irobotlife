@@ -31,7 +31,7 @@ Alpha Go, MidJourney，ChatGPT
 
 国内企业百度的聊天AI，于3月16日发布：[https://yiyan.baidu.com/welcome](https://yiyan.baidu.com/welcome)
 
-### 延伸（或许更实用
+### 延伸（或许更实用，目前国内最佳替代品
 
 #### 川虎ChatGPT:可以联网搜索，可以上传文档问答；文档类型包括但不限于PDFtxt、word
 [https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT](https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT)
@@ -39,7 +39,7 @@ Alpha Go, MidJourney，ChatGPT
 
 
 
-## 画图工具
+## 画画绘画
 
 
  
@@ -54,13 +54,13 @@ Alpha Go, MidJourney，ChatGPT
 开源站点：[https://civitai.com](https://civitai.com)
 
 
-## 音视频工具
+## 音视频制作
  
 D-id, 文字生成视频： [https://studio.d-id.com/](https://studio.d-id.com/)
 
 
 
-### 一个机器人广场：瀛海威广场
+## 推荐：一个机器人广场：瀛海威广场
 
 百姓网力推的智能机器人平台，对大众开放，入门小白或者编程高手都可以在广场上发布自己的机器人，不同特点、不同能力的机器人
 
