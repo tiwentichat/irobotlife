@@ -48,10 +48,9 @@ extra:
 
 nav:
   - 首页: 
-      - 首页: index.md
       - 新手包: index.md
       - 入门级别: freshman.md
       - DIY级别: DIY.md
       - 高手级别: fluentlevel.md
-      - 专业级别：professional.md
+      - 专业级别: highlevel.md
 
