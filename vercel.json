@@ -5,11 +5,7 @@
       "use": "@vercel/static-build"
     }
   ],
-  "deployments": {
-    "production": {
-      "target": "vercel"
-    }
-  },
+  
   "targets": {
     "vercel": {
       "outputDirectory": "site"
