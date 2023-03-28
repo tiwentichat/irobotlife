@@ -48,16 +48,10 @@ extra:
 
 nav:
   - 首页: 
-      - 聊天工具：chat/chat.md
       - 首页: index.md
-#      - 新闻: GettingStarted/news.md
-#      - 术语: GettingStarted/term.md
-#      - 声明: GettingStarted/state.md
-#      - 贡献指南: GettingStarted/contributing.md
-#  - 开始之前:
-#      - prepare/index.md
-#  导航栏设置，学习自aidraw
-
-
-
+#      - 新手包: index.md
+#      - 入门级别: docs/freshman.md
+#      - DIY级别: docs/DIY.md
+#      - 高手级别: docs/fluentlevel.md
+#      - 专业级别：docs/professional.md
 
